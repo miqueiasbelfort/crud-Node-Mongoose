@@ -1,6 +1,6 @@
 # CRUD com MongoDB
 * Projeto do curso
-* Um crud com Node JS e MongoDB puro
+* Um crud com Node JS e Mongoose
 
 
 ___
